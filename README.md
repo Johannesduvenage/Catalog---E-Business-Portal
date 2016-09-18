@@ -1,0 +1,2 @@
+# catalog
+Catalog - A E-Business portal for connecting sellers to customers. It helps the sellers to grow the business by connecting to the customers in a very easy, smart way. Doing a business with catalog is very easy. Just register as a seller and once you're validated as an authorized seller by our admin, you're good to go to upload and do business on your own. For every sale seller make, the seller gets paid within the next 7-14 business days. The sellers decide the price of their products and catalog charges you a small fee on the successful orders the seller makes. 
